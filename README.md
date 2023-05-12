@@ -1,2 +1,28 @@
-# design-patterns-alberta
-Design Patterns - University of Alberta
+# Design Patterns - University of Alberta
+
+### Practices Assignments of Course
+
+I'm learned this:
+
++ Object Oriented Programming
++ Adapter
++ Bridge
++ Builder
++ Chain of Responsability
++ Composite
++ Decorator
++ Dependency Injection
++ Factory Method
++ Hook Methods
++ Hook Class
++ Lazy Singleton
++ Null Object
++ Observer
++ Proxy
++ Template Methods
++ Recursive Composition
++ Singleton
++ State
+
+> Author: Thalys Henrique
+https://www.linkedin.com/in/thalyshenrique7/
