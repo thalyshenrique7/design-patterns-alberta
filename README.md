@@ -4,7 +4,6 @@
 
 I'm learned this:
 
-+ Object Oriented Programming
 + Adapter
 + Bridge
 + Builder
@@ -18,6 +17,7 @@ I'm learned this:
 + Lazy Singleton
 + Null Object
 + Observer
++ Object Oriented Programming
 + Proxy
 + Template Methods
 + Recursive Composition
