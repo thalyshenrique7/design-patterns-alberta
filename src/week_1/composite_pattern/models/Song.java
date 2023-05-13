@@ -1,7 +1,6 @@
 package week_1.composite_pattern.models;
 
 import week_1.composite_pattern.interfaces.IComponent;
-
 public class Song implements IComponent {
     private String songName;
     private String artist;
@@ -27,3 +26,4 @@ public class Song implements IComponent {
         return artist;
     }
 }
+
