@@ -7,7 +7,7 @@ I'm learned this:
 + Adapter
 + Bridge
 + Builder
-+ Chain of Responsability
++ Chain of Responsibility
 + Composite
 + Decorator
 + Dependency Injection
